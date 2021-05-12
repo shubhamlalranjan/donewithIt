@@ -1,4 +1,4 @@
 {
-  "assetsBaseUrl": "http://192.168.43.162:9000/assets/",
+  "assetsBaseUrl": "https://androiddonewithitapi.herokuapp.com/assets/",
   "port": 9000
 }
